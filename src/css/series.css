@@ -1,0 +1,33 @@
+.series{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+    }
+    
+    .moviesposter{
+     display: flex;
+      margin: 10px;
+      padding: 5px;
+      /*for the hover effect*/
+      position: relative;
+      bottom: 0;
+      transition: transform 0.2s;
+    }
+    
+    .movieposter img {
+      width:  200px;
+      height: 300px;
+      object-fit: cover;
+      margin: 10px;
+    }
+    
+    .movieposter:hover{
+      cursor: pointer;
+      transform: scale(1.1);
+    }
+    @media (max-width: 550px) {
+      .poster {
+        width: 46%;
+      }
+    }

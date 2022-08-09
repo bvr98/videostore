@@ -1,0 +1,443 @@
+{
+    "trendingMovie": [
+        {
+            "id": 1,
+            "title": "Luca",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZTQyNTU0MDktYTFkYi00ZjNhLWE2ODctMzBkM2U1ZTk3YTMzXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SX300.jpg"
+        },
+        {
+            "id": 2,
+            "title": "A Quiet Place Part II",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTE2ODU4NDEtNmRjNS00OTk1LTg4NmMtNTAzYzVlNzJmYjgzXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Godzilla vs. Kong",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZmYzMzU4NjctNDI0Mi00MGExLWI3ZDQtYzQzYThmYzc2ZmNjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Cruella",
+            "poster": "https://m.media-amazon.com/images/M/MV5BOWI5YTUxOWEtZmRiZS00ZmQxLWE2NzctYTRiODA2NzE1ZjczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg"
+        },
+        {
+            "id": 5,
+            "title": "The Conjuring: The Devil Made Me Do It",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYzQxMjVkZjEtMDQxYy00MGIwLWE1NjYtYzZkZmU1NTFlZGFlXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_SX300.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Nobody",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMjM5YTRlZmUtZGVmYi00ZjE2LWIyNzAtOWVhMDk1MDdkYzhjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SX300.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Wrath of Man",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNGVkOTlhOTktNjZiNS00NDg3LWIxMDAtZTY5Y2E0YjllN2IxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+        },
+        {
+            "id": 8,
+            "title": "The Woman in the Window",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYmVlNWJkZWYtYmJkMy00YTZlLTgwODMtZjVmOGMzMmM1ZTk2XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_SX300.jpg"
+        },
+        {
+            "id": 9,
+            "title": "The Tomorrow War",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNTI2YTI0MWEtNGQ4OS00ODIzLWE1MWEtZGJiN2E3ZmM1OWI1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg"
+        },
+        {
+            "id": 10,
+            "title": "The Boss Baby: Family Business",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYWY1N2I5MGUtZTBmNS00MWZmLWEyNzAtZjliNzk0ZDVkYzI1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg"
+        }
+    ],
+    "movies": [
+        {
+            "id": 1,
+            "title": "Minari",
+            "year": "2020",
+            "rent": "$8.99",
+            "buy":"$19.99",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNWEzOTNjNDgtZDhhYS00ODAxLWIzNGMtYjU3OGZhYmI3ZDU4XkEyXkFqcGdeQXVyMTAzNjk5MDI4._V1_SX300.jpg",
+            "overview":"A Korean American family moves to an Arkansas farm in search of its own American dream. Amidst the challenges of this new life in the strange and rugged Ozarks, they discover the undeniable resilience of family and what really makes a home.",
+            "backdrop_path":"https://i.ytimg.com/vi/NbE96sCJEjo/maxresdefault.jpg"
+
+        },
+        {
+            "id": 2,
+            "title": "The Ice Road",
+            "year": "2021",
+            "rent": "$3.99",
+            "buy":"$14.00",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZDFiZTE4NWEtMGNkNC00YjhlLTk0YjMtNDA3NWRhMjc3MTM2XkEyXkFqcGdeQXVyOTA5NzQ0MDQ@._V1_SX300.jpg",
+            "overview": "After a remote diamond mine collapses in far northern Canada, an ice road driver must lead an impossible rescue mission over a frozen ocean to save the trapped miners.",
+            "backdrop_path": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/06/Benjamin-Walker-The-Ice-Road-interview-social.jpg"
+
+        },
+        {
+            "id": 3,
+            "title": "Demon Slayer: Mugen Train",
+            "year": "2020",
+            "rent": "$9.99",
+            "buy":"$18.00",
+            "poster": "https://m.media-amazon.com/images/M/MV5BODI2NjdlYWItMTE1ZC00YzI2LTlhZGQtNzE3NzA4MWM0ODYzXkEyXkFqcGdeQXVyNjU1OTg4OTM@._V1_SX300.jpg",
+            "overview": "A boy raised by boars who wears a boar's head and another boy who reveals his true power when he sleeps, board the Infinity Train on a new mission with the Flame Pillar. Their mission is to defeat a demon who has been tormenting people and killing the demon slayers who oppose it.",
+            "backdrop_path": "https://www.dreadcentral.com/wp-content/uploads/2021/04/Demon-Slayer-Kimetsu-no-Yaiba-the-Movie-Mugen-Train-landscape-poster2-1-scaled.jpg"
+
+        },       
+        {
+            "id": 4,
+            "title": "Raya and the Last Dragon",
+            "year": "2021",
+            "rent": "$6.99",
+            "buy":"$17.00",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZWNiOTc4NGItNGY4YS00ZGNkLThkOWEtMDE2ODcxODEwNjkwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+            "overview": "Raya, a warrior, sets out to track down Sisu, a dragon, who transferred all her powers into a magical gem which is now scattered all over the kingdom of Kumandra, dividing its people.",
+            "backdrop_path": "https://i.pinimg.com/originals/6d/0f/0d/6d0f0d334117cc56a93b721da2fa062a.png"
+
+        },
+        {
+            "id": 5,
+            "title": "Peter Rabbit 2: The Runaway",
+            "year": "2021",
+            "rent": "$3.99",
+            "buy":"$14.00",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYjkyMDQyZWQtNGFhYy00NjdmLWEzMjctYzAxMmJkNDkxZmRlXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg",
+            "overview": "Bea, Thomas and the rabbits have created a makeshift family, but despite his best efforts, Peter can't seem to shake his mischievous reputation. Venturing out of the garden, Peter finds himself in a world where his mischief is appreciated. However, when his family risks everything to come looking for him, Peter must figure out what kind of bunny he wants to be.",
+            "backdrop_path": "https://cdn.shopify.com/s/files/1/0513/0613/5747/products/rs_w_1200_h_1200_3790f970-2db3-47ad-b284-7be6b35d1885_530x@2x.jpg?v=1605738816"
+
+        },
+        {
+            "id": 6,
+            "title": "Spirit Untamed",
+            "year": "2021",
+            "rent": "$7.99",
+            "buy":"$18.00",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMDVlZTEwMTItNmE4Zi00ZGFhLWI4NjgtMDdiZTA5NDdmNWYyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+            "overview": "After moving to a sleepy little town, young Lucky Prescott befriends a wild mustang named Spirit, who shares her rebellious spirit. When a heartless wrangler plans to capture Spirit and his herd, Lucky and her new friends embark on the adventure of a lifetime to rescue the horse that forever changed her life.",
+            "backdrop_path": "https://i.ytimg.com/vi/b57DP_8I_T0/maxresdefault.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Those Who Wish Me Dead",
+            "year": "2021",
+            "rent": "$8.99",
+            "buy":"$15.00",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMDAxMmQ0NTAtNDllNC00ZjE2LTlkNjUtMmExNmY0MmNkMDQ0XkEyXkFqcGdeQXVyNzYyOTM1ODI@._V1_SX300.jpg",
+            "overview": "Still reeling from the loss of three lives, Hannah is a smoke jumper who's perched in a watchtower high above the Montana wilderness. She soon encounters Connor, a skittish boy who's bloodied, traumatized and on the run in the remote forest. As Hannah tries to bring him to safety, she's unaware of the real dangers to follow: two relentless killers hunting Connor, and a fiery blaze consuming everything in its path.",
+            "backdrop_path": "https://phantom-marca.unidadeditorial.es/faae9ab712a399c28a7470b08554494b/resize/1320/f/jpg/assets/multimedia/imagenes/2021/05/15/16211057287143.jpg"
+     },
+        {
+            "id": 8,
+            "title": "Escape Room",
+            "year": "2019",
+            "rent": "$6.99",
+            "buy":"$19.99",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMjQ2NDMwMTY3MF5BMl5BanBnXkFtZTgwNDg5OTc1NjM@._V1_SX300.jpg",
+            "overview": "Six people from different walks of life participate in an escape room competition to win ten thousand dollars. Things change when they find themselves in horrifying circumstances.",
+            "backdrop_path": "https://flxt.tmsimg.com/assets/p15659526_v_h8_ac.jpg"
+        },
+        {
+            "id": 9,
+            "title": "The Forever Purge",
+            "year": "2021",
+            "rent": "$5.99",
+            "buy":"$19.00",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMGE5NjJjNGMtZDkwMy00MGFlLWFkYTktYWFkNTY1NjcwOTY2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+            "overview": "Adela and her husband, Juan, live in Texas, where he works as a ranch hand for the wealthy Tucker family.On the morning after the Purge, a masked gang of killers attacks the Tuckers, forcing both families to band together and fight back as the country spirals into chaos.",
+            "backdrop_path": "https://images.alphacoders.com/115/1154715.jpg"
+        },
+        {
+            "id": 10,
+            "title": "The Hitman's Wife's Bodyguard",
+            "year": "2021",
+            "rent": "$3.99",
+            "buy":"$18.00",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNGQ2MGQ1ZGQtOTY4MS00ZDA5LWE5YmUtMGE0YTE2YTZiODZkXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SX300.jpg",
+            "overview": "The world’s most lethal odd couple are back on another life-threatening mission. Bryce is forced into action by Darius's even more volatile wife, the infamous international con artist Sonia Kincaid.The trio get in over their heads in a global plot and soon find that they are all that stand between Europe and a vengeful and powerful madman.",
+            "backdrop_path": "https://www.k1speed.com/wp-content/uploads/2020/02/hitmans-wifes-bodyguard-tickets.jpeg"
+        },
+        {
+            "id": 11,
+            "title": "The Boss Baby: Family Business",
+            "year": "2021",
+            "rent": "$7.99",
+            "buy":"$12.00",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYWY1N2I5MGUtZTBmNS00MWZmLWEyNzAtZjliNzk0ZDVkYzI1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+            "overview": "The Templeton brothers — Tim and his Boss Baby little bro Ted — have become adults and drifted away from each other. But a new boss baby with a cutting-edge approach and a can-do attitude is about to bring them together again and inspire a new family business.",
+            "backdrop_path": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/07/boss-baby-family-business.jpg"
+        },
+        
+        {
+            "id": 12,
+            "title": "The Tomorrow War",
+            "year": "2021",
+            "rent": "$3.99",
+            "buy":"$13.00",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNTI2YTI0MWEtNGQ4OS00ODIzLWE1MWEtZGJiN2E3ZmM1OWI1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+            "overview": "The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. Determined to save the world for his young daughter, Dan Forester teams up with a brilliant scientist and his estranged father in a desperate quest to rewrite the fate of the planet.",
+            "backdrop_path": "https://ntvb.tmsimg.com/assets/p17618724_v_h8_aa.jpg?w=1280&h=720"
+        },
+        {
+            "id": 13,
+            "title": "The Woman in the Window",
+            "year": "2021",
+            "rent": "$8.99",
+            "buy":"$17.00",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYmVlNWJkZWYtYmJkMy00YTZlLTgwODMtZjVmOGMzMmM1ZTk2XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_SX300.jpg",
+            "overview":"Agoraphobic Dr. Anna Fox witnesses something she shouldn't while keeping tabs on the Russell family, the seemingly picture perfect clan that lives across the way.",
+            "backdrop_path":"https://w2mnet.com/wp-content/uploads/2021/05/Woman-in-the-Window.jpg"
+        },
+        {
+            "id": 14,
+            "title": "Wrath of Man",
+            "year": "2021",
+            "rent": "$3.99",
+            "buy":"$18.99",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNGVkOTlhOTktNjZiNS00NDg3LWIxMDAtZTY5Y2E0YjllN2IxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+            "overview":"Mysterious and wild-eyed, a new security guard for a cash truck surprises his co-workers when he unleashes precision skills during a heist. The crew is left wondering who he is and where he came from. Soon, the marksman's ultimate motive becomes clear as he takes dramatic and irrevocable steps to settle a score.",
+            "backdrop_path":"https://citysurfingorlando.com/wp-content/uploads/2021/05/wrathofman-banner.jpg"
+        },
+        {
+            "id": 15,
+            "title": "Nobody",
+            "year": "2021",
+            "rent": "$8.50",
+            "buy":"$18.99",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMjM5YTRlZmUtZGVmYi00ZjE2LWIyNzAtOWVhMDk1MDdkYzhjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SX300.jpg",
+            "overview": "Hutch Mansell fails to defend himself or his family when two thieves break into his suburban home one night. In a barrage of fists, gunfire and squealing tires, Hutch must now save his wife and son from a dangerous adversary and ensure that he will never be underestimated again.",
+            "backdrop_path": "https://www.wdiy.org/sites/wdiy/files/202104/nobody.jpg"
+        },
+        
+        {
+            "id": 16,
+            "title": "The Conjuring: The Devil Made Me Do It",
+            "year": "2021",
+            "rent": "$4.99",
+            "buy":"$17.99",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYzQxMjVkZjEtMDQxYy00MGIwLWE1NjYtYzZkZmU1NTFlZGFlXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_SX300.jpg",
+            "overview": "Paranormal investigators Ed and Lorraine Warren encounter what would become one of the most sensational cases from their files. The fight for the soul of a young boy takes them beyond anything they'd ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense.",
+            "backdrop_path": "https://brobible.com/wp-content/uploads/2021/05/Whats-New-On-HBO-Max-In-June.jpg?w=650"
+        },
+        {
+            "id": 17,
+            "title": "Cruella",
+            "year": "2021",
+            "rent": "$7.99",
+            "buy":"$19.99",
+            "poster": "https://m.media-amazon.com/images/M/MV5BOWI5YTUxOWEtZmRiZS00ZmQxLWE2NzctYTRiODA2NzE1ZjczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+            "overview": "In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief. One day, Estella’s flair for fashion catches the eye of the Baroness von Hellman. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the fashionable and revenge-bent Cruella.",
+            "backdrop_path": "https://miro.medium.com/max/1838/1*6Xm293DP4c8r_w6yeEFLKw.jpeg"
+        },
+        {
+            "id": 18,
+            "title": "Godzilla vs. Kong",
+            "year": "2021",
+            "rent": "$5.99",
+            "buy":"$16.99",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZmYzMzU4NjctNDI0Mi00MGExLWI3ZDQtYzQzYThmYzc2ZmNjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+            "overview": "In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.",
+            "backdrop_path": "https://i.imgur.com/q4WlwuE.jpeg"
+        },
+        {
+            "id": 19,
+            "title": "A Quiet Place Part II",
+            "year": "2020",
+            "rent": "$8.99",
+            "buy":"$19.99",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTE2ODU4NDEtNmRjNS00OTk1LTg4NmMtNTAzYzVlNzJmYjgzXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+            "overview": "Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.",
+            "backdrop_path": "https://i0.wp.com/premierenext.com/wp-content/uploads/2020/10/A-quiet-Place-Part-2.jpg?fit=1920%2C1080&ssl=1"
+        },
+        {
+            "id": 20,
+            "year": "2021",
+            "rent": "$3.99",
+            "buy":"$14.00",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZTQyNTU0MDktYTFkYi00ZjNhLWE2ODctMzBkM2U1ZTk3YTMzXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SX300.jpg",
+            "overview": "Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.",
+            "backdrop_path": "https://www.explica.co/wp-content/uploads/2021/06/Luca-1000x600.jpg",
+            "trending":"true"
+        }
+        
+    ],
+    "trendingSeries": [
+        {
+            "id": 1,
+            "title": "Loki",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNTkwOTE1ZDYtODQ3Yy00YTYwLTg0YWQtYmVkNmFjNGZlYmRiXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_SX300.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Rick and Morty",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_SX300.jpg"
+        },
+        {
+            "id": 3,
+            "title": "WandaVision",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZGEwYmMwZmMtMTQ3MS00YWNhLWEwMmQtZTU5YTIwZmJjZGQ0XkEyXkFqcGdeQXVyMTI5MzA5MjA1._V1_SX300.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Manifest",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMmM1OWIyODItZWNmMC00MzJmLThiNDktNjExMGFlMTcyYWI5XkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_SX300.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Bosch",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg"
+        },
+        {
+            "id": 6,
+            "title": "The Handmaid's Tale",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZGZiMTkzZjktNzk0OC00NzEzLWJjOTMtYjdkMWM1NGU1ZDM4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Lucifer",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNzY1YjIxOGMtOTAyZC00YTcyLWFhMzQtZTJkYTljYzU0MGRlXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_SX300.jpg"
+        },
+        {
+            "id": 8,
+            "title": "The Walking Dead",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTc5ZmM0OTQtNDY4MS00ZjMyLTgwYzgtOGY0Y2VlMWFmNDU0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_SX300.jpg"
+        }
+    ],
+    "series": [
+        {
+            "id": 1,
+            "title": "Black Mirror: Season 1",
+            "year": "2011",
+            "buy":" $20.99",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYTM3YWVhMDMtNjczMy00NGEyLWJhZDctYjNhMTRkNDE0ZTI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+            "overview":"An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
+            "backdrop_path":"http://theavantguardian.com/wp-content/uploads/2019/12/BM_image.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Peaky Blinders: Season 1",
+            "year": "2013",
+            "buy":" $23.99",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTkzNjEzMDEzMF5BMl5BanBnXkFtZTgwMDI0MjE4MjE@._V1_SX300.jpg",
+            "overview":"A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.",
+            "backdrop_path":"https://cdn11.bigcommerce.com/s-nq6l4syi/images/stencil/1280x1280/products/145023/302486/194413-1024__09807.1621609267.jpg?c=2?imbypass=on"
+        },
+        {
+            "id": 3,
+            "title": "Chernobyl",
+            "year": "2019",
+            "buy":" $19.99",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZGQ2YmMxZmEtYjI5OS00NzlkLTlkNTEtYWMyMzkyMzc2MDU5XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SX300.jpg",
+            "overview":"In April 1986, an explosion at the Chernobyl nuclear power plant in the Union of Soviet Socialist Republics becomes one of the world's worst man-made catastrophes.",
+            "backdrop_path":"https://img.hulu.com/user/v3/artwork/849bed9a-2da8-484b-8cdf-d7000090fc5d?base_image_bucket_name=image_manager&base_image=23da3616-2add-4dd8-8934-db3e71489a6a&region=US&format=jpeg&size=952x536"
+        },
+        {
+            "id": 4,
+            "title": "Supernatural: Season 1",
+            "year": "2005",
+            "buy":"$19.99",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNzRmZWJhNjUtY2ZkYy00N2MyLWJmNTktOTAwY2VkODVmOGY3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+            "overview":"Two brothers follow their father's footsteps as hunters, fighting evil supernatural beings of many kinds, including monsters, demons and gods that roam the earth.",
+            "backdrop_path":"https://wallpaperdogs.com/large/10937927.jpg"
+        },
+        {
+            "id": 5,
+            "title": "The Flash: Season 1",
+            "year": "2014",
+            "buy":" $17.99",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMDIzNzYwNTctZWY4Mi00YjQ2LWI5YWYtMzdmNDgwMGI4Yzk1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+            "overview":"After being struck by lightning, Barry Allen wakes up from his coma to discover he's been given the power of super speed, becoming the next Flash, fighting crime in Central City.",
+            "backdrop_path":"https://wallpaperaccess.com/full/708469.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Game of Thrones: Season 1",
+            "year": "2011",
+            "buy":"  $25.99",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_SX300.jpg",
+            "overview":"Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+            "backdrop_path":"https://robots.net/wp-content/uploads/2020/05/Photo-by-SBS-600x338.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Sherlock: Season 1",
+            "year": "2010",
+            "buy":"$12.99",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMWY3NTljMjEtYzRiMi00NWM2LTkzNjItZTVmZjE0MTdjMjJhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTQ4NTc5OTU@._V1_SX300.jpg",
+            "overview":"A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+            "backdrop_path":"https://i.pinimg.com/originals/d3/6e/55/d36e55a8c351fa24d13101d9e3584be8.jpg"
+        },
+        {
+            "id": 8,
+            "title": "The Walking Dead : Season 1",
+            "year": "2010",
+            "buy":"$19.99",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTc5ZmM0OTQtNDY4MS00ZjMyLTgwYzgtOGY0Y2VlMWFmNDU0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_SX300.jpg",
+            "overview":"Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.",
+            "backdrop_path":"http://media.comicbook.com/uploads1/2014/12/walking-dead-season-5-comic-con-poster-image-widewallpapershd-20-114967.jpg"
+        },
+        {
+            "id":9,
+            "title": "Lucifer : Season 1",
+            "year": "2016",
+            "buy":"$24.99",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNzY1YjIxOGMtOTAyZC00YTcyLWFhMzQtZTJkYTljYzU0MGRlXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_SX300.jpg",
+            "overview":"Lucifer Morningstar has decided he's had enough of being the dutiful servant in Hell and decides to spend some time on Earth to better understand humanity. He settles in Los Angeles - the City of Angels",
+            "backdrop_path":"https://cinedope.com/wp-content/uploads/2021/01/Lucifer-2.jpg"
+        },
+        {
+            "id":10,
+            "title": "The Handmaid's Tale : Season 1",
+            "year": "2017",
+            "buy":"$19.99",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZGZiMTkzZjktNzk0OC00NzEzLWJjOTMtYjdkMWM1NGU1ZDM4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+            "overview":"Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship.",
+            "backdrop_path":"https://phantom-marca.unidadeditorial.es/6decc31e1fd719950ee8bd45fdc8fd1a/crop/29x0/673x399/resize/1320/f/jpg/assets/multimedia/imagenes/2021/06/15/16237937985367.jpg"
+        },
+        {
+            "id":11,
+            "title": "Bosch : Season 1",
+            "year": "2014",
+            "buy":"$21.99",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+            "overview":"An L.A.P.D. homicide detective works to solve the murder of a thirteen-year-old boy while standing trial in federal court for the murder of a serial killer.",
+            "backdrop_path":"https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/df6cf6f660a72e0d9d6d9fc1717a909f75d6230cedba114c8a97ed69b58ce9b1._UY500_UX667_RI_V_TTW_.jpg"
+       },
+        {
+            "id":12,
+            "title": "Manifest: Season 1",
+            "year": "2018",
+            "buy":"$20.99",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMmM1OWIyODItZWNmMC00MzJmLThiNDktNjExMGFlMTcyYWI5XkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_SX300.jpg",
+            "overview":"A commercial airliner suddenly reappears after being missing for five years. As those aboard reintegrate into society, they experience guiding voices and visions of events yet to occur, and soon a deeper mystery unfolds.",
+            "backdrop_path":"https://storage.googleapis.com/cdn.spoilertv.com/images/headers/manifest.jpg"
+        },
+        {
+            "id":13,
+            "title": "WandaVision",
+            "year": "2021",
+            "buy":" $24.99",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZGEwYmMwZmMtMTQ3MS00YWNhLWEwMmQtZTU5YTIwZmJjZGQ0XkEyXkFqcGdeQXVyMTI5MzA5MjA1._V1_SX300.jpg",
+            "overview":"Blends the style of classic sitcoms with the MCU, in which Wanda Maximoff and Vision - two super-powered beings living their ideal suburban lives - begin to suspect that everything is not as it seems.",
+            "backdrop_path":"https://i.ytimg.com/vi/vY6dVw3ivPw/maxresdefault.jpg"
+        },
+        {
+            "id":14,
+            "title": "Rick and Morty: Season 1",
+            "year": "2013",
+            "buy":"$19.99",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_SX300.jpg",
+            "overview":"An animated series that follows the exploits of a super scientist and his not-so-bright grandson. ... Rick, an alcoholic mad scientist, stumbles into his grandson Morty's room begging for help on an intergalactic adventure. Morty reluctantly agrees and finds himself on a never ending quest across time, dimension and space.",
+            "backdrop_path":"https://i.vimeocdn.com/video/1080611513?mw=1100&mh=619&q=70"
+        },
+        {
+            "id":15,
+            "title": "Loki",
+            "year": "2021",
+            "buy":"$23.99",
+            "poster": "https://m.media-amazon.com/images/M/MV5BNTkwOTE1ZDYtODQ3Yy00YTYwLTg0YWQtYmVkNmFjNGZlYmRiXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_SX300.jpg",
+            "overview": "Loki, the God of Mischief, steps out of his brother's shadow to embark on an adventure that takes place after the events of Avengers: Endgame.",
+            "backdrop_path": "https://images.indianexpress.com/2021/05/loki-1200.jpg"
+        }
+    ]
+}

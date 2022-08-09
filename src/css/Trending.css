@@ -1,0 +1,32 @@
+.trending {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  font-family: "Montserrat", sans-serif;
+  height: 350px;
+}
+
+h1{
+  text-transform: uppercase;
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  font-size: 2vw;
+  padding: 4px;
+  border-radius: 50px;
+  color: white;
+}
+
+@media (max-width: 1000px) {
+  h1 {
+    width:6.4vw;
+  }
+}
+
+/*TO HIDE THE SCROLLBAR */
+.trending::-webkit-scrollbar {
+  display: none;
+}
+
+.Banner img{
+  width:100%;
+}

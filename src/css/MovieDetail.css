@@ -1,0 +1,129 @@
+ @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap");
+
+ .MovieDetail {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  width: 100%;
+  overflow-y: scroll;
+  background: #292D53;
+background-image: inherit;
+}
+
+.MovieDetail_landscape{
+  object-fit:contain;
+  border-radius: 10px;
+  margin: 10px;
+  height: 70%;
+}
+
+.MovieDetail_portrait {
+  display: none;
+}
+
+.glass ul{
+  list-style:none;
+  padding: 5px;
+}
+
+.glass li{
+  position: relative;
+	display: inline-block;
+	padding:0 18px;
+  margin-right: 10px;
+	background-color: green; /*for compatibility with older browsers*/
+	background-image: linear-gradient(green,lightgreen);
+  text-decoration: none;
+  text-align:center;
+	color: #fff;
+  font-size: 20px;
+	font-family: sans-serif;
+	font-weight: 100;
+  border-radius: 10px;
+}
+
+.MovieDetail::-webkit-scrollbar {
+  display: none;
+}
+
+.MovieDetail_about {
+  padding: 10px;
+  width: 95%;
+  height: 90%;
+  display: flex;
+  flex-direction: column;
+  font-family: "Roboto", sans-serif;
+  justify-content: space-evenly;
+  font-weight: 300;
+  
+}
+
+.MovieDetail_title {
+  height: 12%;
+  font-size: 30px;
+  display: flex;
+  text-align: center !important;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.MovieDetail_overview {
+  display: flex;
+  height: 40%;
+  overflow-y: scroll;
+  padding: 25px;
+  border-radius: 20px;
+  box-shadow: inset 0 0 5px #000000;
+  text-align: justify;
+  font-size: 22px;
+}
+
+.MovieDetail_overview::-webkit-scrollbar {
+  display: none;
+}
+
+@media (max-width: 835px) {
+  .MovieDetail_landscape {
+      display: none;
+  } 
+  .glass li{
+   
+    margin: 10px;
+    display: inline-block;
+    font-size: 2vw;
+  }
+  .MovieDetail_portrait {
+    display: flex;
+    width: auto;
+    height:400px;
+    object-fit: contain;
+    border-radius: 10px;
+    border: 1px solid black;
+    margin:20px;
+    margin-top: 50px;
+    
+  }
+  .MovieDetail {
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 10px 0;
+    text-align: center;
+  }
+  .MovieDetail_about {
+    width: 58%;
+    padding: 10px;
+    height: 100%;
+    margin: 10px;
+    
+  }
+  .MovieDetail_title {
+    font-size: 3.5vw;
+    padding: 5px;
+    text-align: left;
+  }
+  .MovieDetail_overview {
+    font-size: 22px;
+    
+  }
+}
