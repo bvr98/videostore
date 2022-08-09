@@ -1,4 +1,4 @@
-//import React, { useState, useEffect } from 'react';
+
 import "../css/movies.css";
 import SingleContent from '../components/SingleContent';
 import MovieContext from "../components/MovieContext";
@@ -14,7 +14,6 @@ import { useContext } from 'react';
         <div className="movies">
           {
 
-//Array.isArray(this.state.movies) && this.state.movies.map((c) => (
    movies.map((c,index) => (
               <SingleContent
                 key={c.id}
@@ -32,24 +31,3 @@ import { useContext } from 'react';
       </div>
     );
   };
-//}
-//export default Movies
-
- //     const [movies, setMovies] = useState([]);
-
-  //   useEffect(() => {
-  //     fetch("http://localhost:5000/movies")
-  //     .then(res => res.json())
-  //     .then((data) => {
-  //           setMovies((M => {
-
-  //         M = data;
-  //         return M
-  //       }));
-  //     })
-  //     .catch(err => console.log(`Error ${err}`));
-
-  // }, [])
-  //render() {
-    //{console.log("Movie Data:"+movies[0].id)}
-

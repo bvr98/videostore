@@ -36,7 +36,7 @@ console.log({movies, series})
       </div>
       <hr/>
       <div className="Banner">
-        <img src="https://images2.vudu.com/assets/mixMatch/banner/206210-1305" alt="Movie banner"/>
+        <img src="https://images2.vudu.com/assets/row/banner/208266-1305" alt="Movie banner"/>
         <hr/>
         </div>
 
@@ -59,7 +59,7 @@ console.log({movies, series})
       </div>
       <div className="Banner">
         <hr/>
-        <img src="https://images2.vudu.com/assets/mixMatch/banner/205938-1305" alt="content banner"/>
+        <img src="https://images2.vudu.com/assets/page/banner/207988-1305" alt="content banner"/>
         <hr/>
       </div>
     </div>
