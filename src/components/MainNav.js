@@ -6,6 +6,7 @@ import TvIcon from "@material-ui/icons/Tv";
 import MovieIcon from "@material-ui/icons/Movie";
 import LockOpenIcon from '@material-ui/icons/LockOpen';
 import PersonAddIcon from '@material-ui/icons/PersonAdd';
+import SearchIcon from '@material-ui/icons/Search';
 
 import TrendingUpIcon from '@material-ui/icons/TrendingUp';
 import { useHistory } from "react-router-dom";
@@ -33,8 +34,10 @@ export default function SimpleBottomNavigation() {
     } else if (value === 2) {
       history.push("/series");
     } else if (value === 3) {
+      history.push("/search");
+    }else if (value === 4) {
       history.push("/signUp");
-    } else if (value === 4) {
+    } else if (value === 5) {
       history.push("/login");
 
     }
@@ -63,6 +66,11 @@ export default function SimpleBottomNavigation() {
         style={{ color: "white" }}
         label="TV Series"
         icon={<TvIcon />}
+      />
+       <BottomNavigationAction
+        style={{ color: "white" }}
+        label="Search"
+        icon={<SearchIcon />}
       />
       <BottomNavigationAction
         style={{ color: "white" }}

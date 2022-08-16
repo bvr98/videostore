@@ -8,6 +8,8 @@ import Movies from "../Pages/Movies";
 import Series from "../Pages/Series";
 import SignUp from "../Pages/SignUp";
 import Login from "../Pages/Login";
+import Search from "../Pages/Search";
+import searchResult from "../Pages/searchResult";
 
 import { Container } from "@material-ui/core";
 import Home from "../Pages/Home";
@@ -95,6 +97,8 @@ function App() {
                 <Route path="/" component={Home} exact />
                 <Route path="/movies" component={Movies} />
                 <Route path="/series" component={Series} />
+                <Route path="/search" component={Search} />
+                <Route path="/searchResult" component={searchResult} />
                 <Route path="/signUp" component={SignUp} />
                 <Route path="/login" component={Login} />
                
